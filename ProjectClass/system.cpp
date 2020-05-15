@@ -9,7 +9,6 @@ void MyPart::info()
 	std::cout << "First Static Method in Class.\n" << std::endl;
 }
 
-
 int main() {
 	MyPart::info();
 

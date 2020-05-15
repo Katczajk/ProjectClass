@@ -1,0 +1,3 @@
+﻿  system.cpp
+C:\Users\hermann\Source\Repos\ProjectClass\ProjectClass\system.cpp(25,2): warning C4809: switch-Anweisungen enthält redundante "default"-Bezeichnung; alle möglichen "case"-Bezeichnungen sind bereits angegeben
+  ProjectClass.vcxproj -> C:\Users\hermann\Source\Repos\ProjectClass\x64\Debug\ProjectClass.exe

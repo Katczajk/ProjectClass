@@ -9,7 +9,13 @@
 
 
 class MyPart {
+
+private:
+	bool sysstat;
+
 public: static void info();
+	
+
 };
 
 int main();
